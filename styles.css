@@ -1,0 +1,36 @@
+/* styles.css */
+
+body {
+    background-color: #001f3f; /* Navy blue background */
+    color: #fff; /* White text */
+}
+
+a {
+    text-decoration: none;
+    color: #fff; /* White link color */
+}
+
+.login-page {
+    background-color: #001f3f; /* Navy blue background */
+}
+
+.bg-light {
+    background-color: #001f3f !important; /* Override Bootstrap's light background color */
+}
+
+.bg-white {
+    background-color: #003165 !important; /* Override Bootstrap's white background color */
+}
+
+.form-left {
+    color: #e6efff; /* Navy blue text */
+}
+
+.form-right {
+    background-color: #001f3f; /* Navy blue background */
+    color: #fff; /* White text */
+}
+
+.form-right i {
+    font-size: 100px;
+}
