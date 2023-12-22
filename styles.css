@@ -1,34 +1,34 @@
-/* styles.css */
+
 
 body {
-    background-color: #001f3f; /* Navy blue background */
-    color: #fff; /* White text */
+    background-color: #001f3f; 
+    color: #fff; 
 }
 
 a {
     text-decoration: none;
-    color: #fff; /* White link color */
+    color: #fff; 
 }
 
 .login-page {
-    background-color: #001f3f; /* Navy blue background */
+    background-color: #001f3f;
 }
 
 .bg-light {
-    background-color: #001f3f !important; /* Override Bootstrap's light background color */
+    background-color: #001f3f !important; 
 }
 
 .bg-white {
-    background-color: #003165 !important; /* Override Bootstrap's white background color */
+    background-color: #003165 !important; 
 }
 
 .form-left {
-    color: #e6efff; /* Navy blue text */
+    color: #e6efff;
 }
 
 .form-right {
-    background-color: #001f3f; /* Navy blue background */
-    color: #fff; /* White text */
+    background-color: #001f3f; 
+    color: #fff; 
 }
 
 .form-right i {
